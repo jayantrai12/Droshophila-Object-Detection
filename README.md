@@ -228,6 +228,6 @@ Feel free to reach out for any questions, feedback, or collaboration opportuniti
 
 ---
 
-**Happy detecting! **
+Happy detecting! 
 
 ---
